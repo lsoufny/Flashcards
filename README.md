@@ -9,7 +9,7 @@ toggles back and forth between a question and its answer
 
 ### App Walk-though
 
-https://imgur.com/lJuPCH3
+https://imgur.com/a/OUPRta9
 
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)

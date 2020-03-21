@@ -5,7 +5,7 @@
 allow users to create as many flashcards as they want
 
 ### App Walk-though
-<https://imgur.com/a/3FFJiEM>
+<https://imgur.com/a/R7QHLdz>
 
 ## Required
 - [X] User can browse through multiple flashcards

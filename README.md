@@ -38,9 +38,6 @@ toggles back and forth between a question and its answer
 
 https://imgur.com/a/OUPRta9
 
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [X] Create New Project in Xcode
 - [X] Add a view for the front side of the flashcard to display the question

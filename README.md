@@ -1,4 +1,16 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
+## Lab 3
+
+### Persisting Flashcards
+allow users to create as many flashcards as they want
+
+### App Walk-though
+<https://imgur.com/a/3FFJiEM>
+
+## Required
+- [X] User can browse through multiple flashcards
+- [X] User can re-open the app and see previously created flashcards
+- [X] Push code to GitHub
 
 ## Lab 2
 

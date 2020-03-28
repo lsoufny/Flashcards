@@ -1,3 +1,21 @@
+## Lab 4
+
+### Animations and Styling
+Making the app more enjoyable by incorporating:
+Add assets
+Animations everywhere
+
+### App Walk-though
+
+https://imgur.com/a/AO8zMON
+
+## Required
+- [X] User should see the app icon 
+- [X] User should see a splash screen
+- [X] User should see an flip animation when revealing the answer
+- [X] User should see a slide animation when going to the next flashcard
+- [X] User should see a slide animation when going to the previous flashcard
+- [X] Push code to GitHub
 
 ## Lab 3
 
